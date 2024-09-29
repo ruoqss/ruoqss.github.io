@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruoqss.github.io/iPT/sitemap.iPT.gz
